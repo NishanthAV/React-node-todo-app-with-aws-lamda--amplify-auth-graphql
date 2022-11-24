@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lamdanodejs-dev-133812-authRole",
+      "UnauthRoleArn": "arn:aws:iam::299473252383:role/amplify-lamdanodejs-dev-133812-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::299473252383:role/amplify-lamdanodejs-dev-133812-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-lamdanodejs-dev-133812-deployment",
+      "UnauthRoleName": "amplify-lamdanodejs-dev-133812-unauthRole",
+      "StackName": "amplify-lamdanodejs-dev-133812",
+      "StackId": "arn:aws:cloudformation:ap-south-1:299473252383:stack/amplify-lamdanodejs-dev-133812/212d69a0-6bcf-11ed-bc65-02238fc51376",
+      "AmplifyAppId": "dba6pmgltoetk"
+    },
+    "categories": {
+      "api": {
+        "lamdanodejs": {}
+      },
+      "auth": {
+        "lamdanodejs2f832d5a": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dba6pmgltoetk",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

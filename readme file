@@ -1,0 +1,20 @@
+Deploy Nodejs-React API as AWS Lambda Function of basic Todo with auth and graphql db
+
+Site-https://docs.amplify.aws/start/getting-started/installation/q/integration/react/
+
+*Sign in aws account
+*Create Iam role for amplify
+*install awscli in ide
+*aws configure
+*add amplify library
+*create react app-npx create-react-app [filename]
+*initialize amplify in ide
+*install amplify libraries
+*Connect API and database to the app
+ -graphql
+*deploy api-amplify push
+*check status of api -amplify status
+*add authentication of signup and login
+*publish the app
+hosted App-https://dev.dba6pmgltoetk.amplifyapp.com
+
